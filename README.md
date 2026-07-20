@@ -43,10 +43,6 @@ I'm a Computer Science student at Helwan University with a passion for Data Anal
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
 
-### Currently Learning
-- SQL
-- Python
-- Power BI
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [Ganna Mohamed](https://www.linkedin.com/in/ganna-mohamed2)
