@@ -1,6 +1,6 @@
 # Hi there, I'm Ganna Mohamed 👋
 
-### Information Systems Student | Data Analytics Trainee @ DEPI
+### Computer Science Student | Data Analytics Trainee @ DEPI
 
 I'm a Computer Science student at Helwan University with a passion for Data Analytics and Software Development. I enjoy transforming raw data into meaningful insights and continuously expanding my technical skills through hands-on projects and continuous learning.
 
