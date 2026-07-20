@@ -18,9 +18,14 @@ I'm a Computer Science student at Helwan University with a passion for Data Anal
 ### 📊 Data Analytics
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-0A66C2?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-9C27B0?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL)
-![Power BI](https://img.shields.io/badge/Power_BI)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ### 💻 Programming
 
@@ -28,7 +33,7 @@ I'm a Computer Science student at Helwan University with a passion for Data Anal
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Tools
 
