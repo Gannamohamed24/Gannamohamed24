@@ -46,6 +46,7 @@ I'm a Computer Science student at Helwan University with a passion for Data Anal
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [Ganna Mohamed](https://www.linkedin.com/in/ganna-mohamed2)
+- 📧 Email : gannamoh72@gmail.com
 
 
 
